@@ -1,0 +1,1802 @@
+accuracies of model resnet18 (augmented trained) throughout all its traing epochs ON RAW IMAGES
+
+
+
+epoch: 1
+
+Accuracy of Abdomen : 72.76249515691592%
+
+Accuracy of Background : 99.96236356793376%
+
+Accuracy of Head : 96.5074325299466%
+
+Accuracy of Limbs : 21.197007481296758%
+
+Accuracy of Placenta : 49.0%
+
+Accuracy of Spine : 84.65346534653466%
+
+Accuracy of Thorax : 82.25310899780541%
+
+
+
+
+
+epoch: 2
+
+Accuracy of Abdomen : 82.40991863618753%
+
+Accuracy of Background : 98.83327060594655%
+
+Accuracy of Head : 94.7611487949199%
+
+Accuracy of Limbs : 53.01033131457071%
+
+Accuracy of Placenta : 49.0%
+
+Accuracy of Spine : 86.48514851485149%
+
+Accuracy of Thorax : 91.77761521580102%
+
+
+
+
+
+epoch: 3
+
+Accuracy of Abdomen : 55.443626501356064%
+
+Accuracy of Background : 93.48889725254045%
+
+Accuracy of Head : 94.91990186174051%
+
+Accuracy of Limbs : 65.65728535803349%
+
+Accuracy of Placenta : 44.9%
+
+Accuracy of Spine : 83.21782178217822%
+
+Accuracy of Thorax : 97.4835405998537%
+
+
+
+
+
+epoch: 4
+
+Accuracy of Abdomen : 42.69662921348315%
+
+Accuracy of Background : 94.91908167105758%
+
+Accuracy of Head : 63.48679463125992%
+
+Accuracy of Limbs : 64.08977556109726%
+
+Accuracy of Placenta : 72.8%
+
+Accuracy of Spine : 81.53465346534654%
+
+Accuracy of Thorax : 93.7966349670812%
+
+
+
+
+
+epoch: 5
+
+Accuracy of Abdomen : 86.24564122433165%
+
+Accuracy of Background : 95.67181031238239%
+
+Accuracy of Head : 92.45201327752922%
+
+Accuracy of Limbs : 85.74991093694335%
+
+Accuracy of Placenta : 38.6%
+
+Accuracy of Spine : 86.18811881188118%
+
+Accuracy of Thorax : 92.80175566934894%
+
+
+
+
+
+epoch: 6
+
+Accuracy of Abdomen : 68.07438977140643%
+
+Accuracy of Background : 95.93526533684607%
+
+Accuracy of Head : 91.87472939818156%
+
+Accuracy of Limbs : 77.9123619522622%
+
+Accuracy of Placenta : 61.2%
+
+Accuracy of Spine : 78.81188118811882%
+
+Accuracy of Thorax : 84.93050475493781%
+
+
+
+
+
+epoch: 7
+
+Accuracy of Abdomen : 81.01511042231694%
+
+Accuracy of Background : 95.63417388031614%
+
+Accuracy of Head : 94.74671669793621%
+
+Accuracy of Limbs : 82.00926255789099%
+
+Accuracy of Placenta : 25.8%
+
+Accuracy of Spine : 87.97029702970298%
+
+Accuracy of Thorax : 94.45501097293344%
+
+
+
+
+
+epoch: 8
+
+Accuracy of Abdomen : 77.56683456024797%
+
+Accuracy of Background : 94.05344373353407%
+
+Accuracy of Head : 89.04603838937798%
+
+Accuracy of Limbs : 70.35981474884218%
+
+Accuracy of Placenta : 63.4%
+
+Accuracy of Spine : 86.43564356435644%
+
+Accuracy of Thorax : 95.44989027066569%
+
+
+
+
+
+epoch: 9
+
+Accuracy of Abdomen : 83.33979077876792%
+
+Accuracy of Background : 94.39217162213022%
+
+Accuracy of Head : 93.40453167845288%
+
+Accuracy of Limbs : 76.80798004987531%
+
+Accuracy of Placenta : 51.4%
+
+Accuracy of Spine : 84.85148514851485%
+
+Accuracy of Thorax : 97.7029992684711%
+
+
+
+
+
+epoch: 10
+
+Accuracy of Abdomen : 83.49476946919799%
+
+Accuracy of Background : 94.42980805419646%
+
+Accuracy of Head : 91.44176648867081%
+
+Accuracy of Limbs : 80.69112931955824%
+
+Accuracy of Placenta : 35.0%
+
+Accuracy of Spine : 81.58415841584159%
+
+Accuracy of Thorax : 94.6013167520117%
+
+
+
+
+
+epoch: 11
+
+Accuracy of Abdomen : 47.38473459899264%
+
+Accuracy of Background : 94.4674444862627%
+
+Accuracy of Head : 94.83330927983836%
+
+Accuracy of Limbs : 85.96366227288921%
+
+Accuracy of Placenta : 43.1%
+
+Accuracy of Spine : 83.76237623762377%
+
+Accuracy of Thorax : 96.85442574981712%
+
+
+
+
+
+epoch: 12
+
+Accuracy of Abdomen : 72.76249515691592%
+
+Accuracy of Background : 94.50508091832894%
+
+Accuracy of Head : 80.19916293837494%
+
+Accuracy of Limbs : 90.27431421446384%
+
+Accuracy of Placenta : 37.0%
+
+Accuracy of Spine : 88.51485148514851%
+
+Accuracy of Thorax : 97.55669348939283%
+
+
+
+
+
+epoch: 13
+
+Accuracy of Abdomen : 91.2824486633088%
+
+Accuracy of Background : 90.47798268724125%
+
+Accuracy of Head : 93.26021070861596%
+
+Accuracy of Limbs : 83.61239757748486%
+
+Accuracy of Placenta : 37.4%
+
+Accuracy of Spine : 85.94059405940594%
+
+Accuracy of Thorax : 91.79224579370886%
+
+
+
+
+
+epoch: 14
+
+Accuracy of Abdomen : 92.17357613328167%
+
+Accuracy of Background : 94.39217162213022%
+
+Accuracy of Head : 92.92827247799106%
+
+Accuracy of Limbs : 81.3323833273958%
+
+Accuracy of Placenta : 35.9%
+
+Accuracy of Spine : 85.64356435643565%
+
+Accuracy of Thorax : 96.28383321141185%
+
+
+
+
+
+epoch: 15
+
+Accuracy of Abdomen : 85.00581170089113%
+
+Accuracy of Background : 94.4674444862627%
+
+Accuracy of Head : 95.9878770385337%
+
+Accuracy of Limbs : 80.61987887424296%
+
+Accuracy of Placenta : 38.1%
+
+Accuracy of Spine : 85.64356435643565%
+
+Accuracy of Thorax : 96.81053401609364%
+
+
+
+
+
+epoch: 16
+
+Accuracy of Abdomen : 90.74002324680356%
+
+Accuracy of Background : 93.41362438840798%
+
+Accuracy of Head : 91.36960600375235%
+
+Accuracy of Limbs : 81.26113288208052%
+
+Accuracy of Placenta : 22.7%
+
+Accuracy of Spine : 81.58415841584159%
+
+Accuracy of Thorax : 96.21068032187272%
+
+
+
+
+
+epoch: 17
+
+Accuracy of Abdomen : 75.28089887640449%
+
+Accuracy of Background : 95.70944674444863%
+
+Accuracy of Head : 68.65348535142157%
+
+Accuracy of Limbs : 83.4698966868543%
+
+Accuracy of Placenta : 46.9%
+
+Accuracy of Spine : 78.21782178217822%
+
+Accuracy of Thorax : 95.68397951719093%
+
+
+
+
+
+epoch: 18
+
+Accuracy of Abdomen : 83.64974815962805%
+
+Accuracy of Background : 94.6556266465939%
+
+Accuracy of Head : 96.82493866358782%
+
+Accuracy of Limbs : 87.13929462059137%
+
+Accuracy of Placenta : 19.8%
+
+Accuracy of Spine : 87.82178217821782%
+
+Accuracy of Thorax : 96.12289685442575%
+
+
+
+
+
+epoch: 19
+
+Accuracy of Abdomen : 79.93025958930647%
+
+Accuracy of Background : 98.45690628528415%
+
+Accuracy of Head : 93.95295136383317%
+
+Accuracy of Limbs : 85.1086569291058%
+
+Accuracy of Placenta : 42.2%
+
+Accuracy of Spine : 87.52475247524752%
+
+Accuracy of Thorax : 94.35259692757865%
+
+
+
+
+
+epoch: 20
+
+Accuracy of Abdomen : 92.21232080588919%
+
+Accuracy of Background : 98.41926985321791%
+
+Accuracy of Head : 96.43527204502814%
+
+Accuracy of Limbs : 88.92055575347347%
+
+Accuracy of Placenta : 40.5%
+
+Accuracy of Spine : 84.55445544554455%
+
+Accuracy of Thorax : 97.27871250914411%
+
+
+
+
+
+epoch: 21
+
+Accuracy of Abdomen : 84.61836497481596%
+
+Accuracy of Background : 96.57508468197214%
+
+Accuracy of Head : 86.33280415644393%
+
+Accuracy of Limbs : 79.94299964374777%
+
+Accuracy of Placenta : 34.5%
+
+Accuracy of Spine : 88.76237623762377%
+
+Accuracy of Thorax : 94.51353328456474%
+
+
+
+
+
+epoch: 22
+
+Accuracy of Abdomen : 86.20689655172414%
+
+Accuracy of Background : 94.35453519006398%
+
+Accuracy of Head : 82.62375523163516%
+
+Accuracy of Limbs : 85.46490915568222%
+
+Accuracy of Placenta : 46.1%
+
+Accuracy of Spine : 84.75247524752476%
+
+Accuracy of Thorax : 96.07900512070226%
+
+
+
+
+
+epoch: 23
+
+Accuracy of Abdomen : 86.71057729562185%
+
+Accuracy of Background : 98.38163342115168%
+
+Accuracy of Head : 85.52460672535719%
+
+Accuracy of Limbs : 89.34805842536515%
+
+Accuracy of Placenta : 35.1%
+
+Accuracy of Spine : 83.36633663366337%
+
+Accuracy of Thorax : 97.11777615215802%
+
+
+
+
+
+epoch: 24
+
+Accuracy of Abdomen : 82.06121658271988%
+
+Accuracy of Background : 98.4945427173504%
+
+Accuracy of Head : 88.95944580747583%
+
+Accuracy of Limbs : 82.04488778054863%
+
+Accuracy of Placenta : 40.0%
+
+Accuracy of Spine : 86.48514851485149%
+
+Accuracy of Thorax : 95.61082662765179%
+
+
+
+
+
+epoch: 25
+
+Accuracy of Abdomen : 70.32158078264239%
+
+Accuracy of Background : 95.37071885585246%
+
+Accuracy of Head : 75.45100303074037%
+
+Accuracy of Limbs : 85.39365871036694%
+
+Accuracy of Placenta : 62.6%
+
+Accuracy of Spine : 80.34653465346534%
+
+Accuracy of Thorax : 98.12728602779809%
+
+
+
+
+
+epoch: 26
+
+Accuracy of Abdomen : 91.5536613715614%
+
+Accuracy of Background : 95.93526533684607%
+
+Accuracy of Head : 90.08514937220379%
+
+Accuracy of Limbs : 90.38118988243677%
+
+Accuracy of Placenta : 24.8%
+
+Accuracy of Spine : 86.03960396039604%
+
+Accuracy of Thorax : 90.92904169714704%
+
+
+
+
+
+epoch: 27
+
+Accuracy of Abdomen : 82.7973653622627%
+
+Accuracy of Background : 98.15581482875423%
+
+Accuracy of Head : 87.70385336989465%
+
+Accuracy of Limbs : 85.85678660491628%
+
+Accuracy of Placenta : 45.0%
+
+Accuracy of Spine : 84.65346534653466%
+
+Accuracy of Thorax : 96.00585223116313%
+
+
+
+
+
+epoch: 28
+
+Accuracy of Abdomen : 80.2402169701666%
+
+Accuracy of Background : 95.67181031238239%
+
+Accuracy of Head : 89.1759272622312%
+
+Accuracy of Limbs : 86.49804061275383%
+
+Accuracy of Placenta : 45.0%
+
+Accuracy of Spine : 83.7128712871287%
+
+Accuracy of Thorax : 96.76664228237016%
+
+
+
+
+
+epoch: 29
+
+Accuracy of Abdomen : 75.51336691204959%
+
+Accuracy of Background : 94.42980805419646%
+
+Accuracy of Head : 94.51580314619714%
+
+Accuracy of Limbs : 84.18240114000713%
+
+Accuracy of Placenta : 43.3%
+
+Accuracy of Spine : 85.04950495049505%
+
+Accuracy of Thorax : 97.23482077542063%
+
+
+
+
+
+epoch: 30
+
+Accuracy of Abdomen : 50.67803177063154%
+
+Accuracy of Background : 98.53217914941663%
+
+Accuracy of Head : 65.72376966373214%
+
+Accuracy of Limbs : 70.85856786604916%
+
+Accuracy of Placenta : 71.5%
+
+Accuracy of Spine : 84.00990099009901%
+
+Accuracy of Thorax : 96.12289685442575%
+
+
+
+
+
+epoch: 31
+
+Accuracy of Abdomen : 75.39713289422704%
+
+Accuracy of Background : 95.74708317651486%
+
+Accuracy of Head : 87.03997690864483%
+
+Accuracy of Limbs : 81.43925899536872%
+
+Accuracy of Placenta : 45.0%
+
+Accuracy of Spine : 86.58415841584159%
+
+Accuracy of Thorax : 92.02633504023409%
+
+
+
+
+
+epoch: 32
+
+Accuracy of Abdomen : 53.35141418055017%
+
+Accuracy of Background : 92.69853217914941%
+
+Accuracy of Head : 84.4710636455477%
+
+Accuracy of Limbs : 76.38047737798361%
+
+Accuracy of Placenta : 68.6%
+
+Accuracy of Spine : 83.26732673267327%
+
+Accuracy of Thorax : 92.27505486466715%
+
+
+
+
+
+epoch: 33
+
+Accuracy of Abdomen : 76.40449438202248%
+
+Accuracy of Background : 98.38163342115168%
+
+Accuracy of Head : 90.79232212440468%
+
+Accuracy of Limbs : 82.1161382258639%
+
+Accuracy of Placenta : 59.6%
+
+Accuracy of Spine : 85.14851485148515%
+
+Accuracy of Thorax : 97.58595464520849%
+
+
+
+
+
+epoch: 34
+
+Accuracy of Abdomen : 67.80317706315381%
+
+Accuracy of Background : 92.24689499435453%
+
+Accuracy of Head : 93.5488526482898%
+
+Accuracy of Limbs : 82.08051300320626%
+
+Accuracy of Placenta : 58.4%
+
+Accuracy of Spine : 78.31683168316832%
+
+Accuracy of Thorax : 97.20555961960497%
+
+
+
+
+
+epoch: 35
+
+Accuracy of Abdomen : 88.4928322355676%
+
+Accuracy of Background : 94.24162589386526%
+
+Accuracy of Head : 84.86073026410737%
+
+Accuracy of Limbs : 86.24866405415034%
+
+Accuracy of Placenta : 44.3%
+
+Accuracy of Spine : 82.37623762376238%
+
+Accuracy of Thorax : 96.94220921726408%
+
+
+
+
+
+epoch: 36
+
+Accuracy of Abdomen : 80.66640836884929%
+
+Accuracy of Background : 94.35453519006398%
+
+Accuracy of Head : 93.46226006638764%
+
+Accuracy of Limbs : 80.26362664766654%
+
+Accuracy of Placenta : 59.1%
+
+Accuracy of Spine : 86.08910891089108%
+
+Accuracy of Thorax : 97.966349670812%
+
+
+
+
+
+epoch: 37
+
+Accuracy of Abdomen : 78.03177063153817%
+
+Accuracy of Background : 100.0%
+
+Accuracy of Head : 92.79838360513783%
+
+Accuracy of Limbs : 87.10366939793374%
+
+Accuracy of Placenta : 40.9%
+
+Accuracy of Spine : 84.10891089108911%
+
+Accuracy of Thorax : 96.70811997073885%
+
+
+
+
+
+epoch: 38
+
+Accuracy of Abdomen : 83.7659821774506%
+
+Accuracy of Background : 94.16635302973278%
+
+Accuracy of Head : 87.55953240005773%
+
+Accuracy of Limbs : 89.73993587459921%
+
+Accuracy of Placenta : 41.2%
+
+Accuracy of Spine : 85.0%
+
+Accuracy of Thorax : 95.33284564740308%
+
+
+
+
+
+epoch: 39
+
+Accuracy of Abdomen : 68.77179387834173%
+
+Accuracy of Background : 98.53217914941663%
+
+Accuracy of Head : 81.31043440611921%
+
+Accuracy of Limbs : 79.80049875311721%
+
+Accuracy of Placenta : 70.1%
+
+Accuracy of Spine : 80.0990099009901%
+
+Accuracy of Thorax : 98.21506949524506%
+
+
+
+
+
+epoch: 40
+
+Accuracy of Abdomen : 78.92289810151104%
+
+Accuracy of Background : 94.35453519006398%
+
+Accuracy of Head : 90.66243325155145%
+
+Accuracy of Limbs : 89.45493409333808%
+
+Accuracy of Placenta : 60.8%
+
+Accuracy of Spine : 80.6930693069307%
+
+Accuracy of Thorax : 97.55669348939283%
+
+
+
+
+
+epoch: 41
+
+Accuracy of Abdomen : 84.54087562960093%
+
+Accuracy of Background : 95.5965374482499%
+
+Accuracy of Head : 88.20897676432385%
+
+Accuracy of Limbs : 84.0755254720342%
+
+Accuracy of Placenta : 61.0%
+
+Accuracy of Spine : 86.03960396039604%
+
+Accuracy of Thorax : 92.74323335771763%
+
+
+
+
+
+epoch: 42
+
+Accuracy of Abdomen : 84.69585432003099%
+
+Accuracy of Background : 94.12871659766654%
+
+Accuracy of Head : 95.16524751046327%
+
+Accuracy of Limbs : 87.92304951905949%
+
+Accuracy of Placenta : 44.4%
+
+Accuracy of Spine : 86.88118811881188%
+
+Accuracy of Thorax : 97.57132406730067%
+
+
+
+
+
+epoch: 43
+
+Accuracy of Abdomen : 87.9891514916699%
+
+Accuracy of Background : 94.58035378246143%
+
+Accuracy of Head : 95.85798816568047%
+
+Accuracy of Limbs : 83.4698966868543%
+
+Accuracy of Placenta : 38.2%
+
+Accuracy of Spine : 90.39603960396039%
+
+Accuracy of Thorax : 97.08851499634235%
+
+
+
+
+
+epoch: 44
+
+Accuracy of Abdomen : 64.08368849283224%
+
+Accuracy of Background : 94.42980805419646%
+
+Accuracy of Head : 83.4319526627219%
+
+Accuracy of Limbs : 84.43177769861062%
+
+Accuracy of Placenta : 57.2%
+
+Accuracy of Spine : 80.64356435643565%
+
+Accuracy of Thorax : 96.64959765910753%
+
+
+
+
+
+epoch: 45
+
+Accuracy of Abdomen : 78.92289810151104%
+
+Accuracy of Background : 97.36544975536319%
+
+Accuracy of Head : 74.36859575696349%
+
+Accuracy of Limbs : 76.4517278232989%
+
+Accuracy of Placenta : 39.5%
+
+Accuracy of Spine : 85.24752475247524%
+
+Accuracy of Thorax : 97.45427944403804%
+
+
+
+
+
+epoch: 46
+
+Accuracy of Abdomen : 86.3618752421542%
+
+Accuracy of Background : 94.58035378246143%
+
+Accuracy of Head : 91.49949487660557%
+
+Accuracy of Limbs : 93.26683291770574%
+
+Accuracy of Placenta : 15.6%
+
+Accuracy of Spine : 81.93069306930693%
+
+Accuracy of Thorax : 96.23994147768836%
+
+
+
+
+
+epoch: 47
+
+Accuracy of Abdomen : 66.98953893839597%
+
+Accuracy of Background : 95.29544599171999%
+
+Accuracy of Head : 84.77413768220522%
+
+Accuracy of Limbs : 85.99928749554685%
+
+Accuracy of Placenta : 61.0%
+
+Accuracy of Spine : 85.24752475247524%
+
+Accuracy of Thorax : 95.69861009509876%
+
+
+
+
+
+epoch: 48
+
+Accuracy of Abdomen : 88.18287485470748%
+
+Accuracy of Background : 94.39217162213022%
+
+Accuracy of Head : 89.53672968682349%
+
+Accuracy of Limbs : 88.9561809761311%
+
+Accuracy of Placenta : 27.8%
+
+Accuracy of Spine : 84.95049504950495%
+
+Accuracy of Thorax : 96.91294806144843%
+
+
+
+
+
+epoch: 49
+
+Accuracy of Abdomen : 75.51336691204959%
+
+Accuracy of Background : 94.73089951072639%
+
+Accuracy of Head : 83.51854524462405%
+
+Accuracy of Limbs : 81.90238688991806%
+
+Accuracy of Placenta : 46.2%
+
+Accuracy of Spine : 80.1980198019802%
+
+Accuracy of Thorax : 97.3226042428676%
+
+
+
+
+
+epoch: 50
+
+Accuracy of Abdomen : 78.53545137543588%
+
+Accuracy of Background : 97.1019947308995%
+
+Accuracy of Head : 93.79419829701256%
+
+Accuracy of Limbs : 78.3398646241539%
+
+Accuracy of Placenta : 59.7%
+
+Accuracy of Spine : 82.47524752475248%
+
+Accuracy of Thorax : 97.966349670812%
+
+
+
+
+
+epoch: 51
+
+Accuracy of Abdomen : 95.19566059666796%
+
+Accuracy of Background : 95.06962739932254%
+
+Accuracy of Head : 95.23740799538173%
+
+Accuracy of Limbs : 84.60990381189882%
+
+Accuracy of Placenta : 40.1%
+
+Accuracy of Spine : 82.77227722772277%
+
+Accuracy of Thorax : 96.78127286027798%
+
+
+
+
+
+epoch: 52
+
+Accuracy of Abdomen : 68.88802789616427%
+
+Accuracy of Background : 98.72036130974783%
+
+Accuracy of Head : 80.37234810217925%
+
+Accuracy of Limbs : 34.022087638047736%
+
+Accuracy of Placenta : 54.6%
+
+Accuracy of Spine : 86.98019801980197%
+
+Accuracy of Thorax : 96.03511338697878%
+
+
+
+
+
+epoch: 53
+
+Accuracy of Abdomen : 75.55211158465711%
+
+Accuracy of Background : 99.96236356793376%
+
+Accuracy of Head : 91.45619858565449%
+
+Accuracy of Limbs : 83.32739579622373%
+
+Accuracy of Placenta : 54.3%
+
+Accuracy of Spine : 85.44554455445545%
+
+Accuracy of Thorax : 96.23994147768836%
+
+
+
+
+
+epoch: 54
+
+Accuracy of Abdomen : 77.29562185199535%
+
+Accuracy of Background : 95.93526533684607%
+
+Accuracy of Head : 87.19872997546544%
+
+Accuracy of Limbs : 85.07303170644816%
+
+Accuracy of Placenta : 63.9%
+
+Accuracy of Spine : 84.5049504950495%
+
+Accuracy of Thorax : 96.10826627651792%
+
+
+
+
+
+epoch: 55
+
+Accuracy of Abdomen : 75.70709027508718%
+
+Accuracy of Background : 99.92472713586751%
+
+Accuracy of Head : 91.1098282580459%
+
+Accuracy of Limbs : 89.73993587459921%
+
+Accuracy of Placenta : 51.2%
+
+Accuracy of Spine : 83.36633663366337%
+
+Accuracy of Thorax : 95.08412582297001%
+
+
+
+
+
+epoch: 56
+
+Accuracy of Abdomen : 71.36768694304533%
+
+Accuracy of Background : 96.04817463304478%
+
+Accuracy of Head : 93.34680329051811%
+
+Accuracy of Limbs : 85.71428571428571%
+
+Accuracy of Placenta : 50.3%
+
+Accuracy of Spine : 83.21782178217822%
+
+Accuracy of Thorax : 97.33723482077542%
+
+
+
+
+
+epoch: 57
+
+Accuracy of Abdomen : 92.83223556760946%
+
+Accuracy of Background : 94.4674444862627%
+
+Accuracy of Head : 95.42502525616972%
+
+Accuracy of Limbs : 82.6148913430709%
+
+Accuracy of Placenta : 39.3%
+
+Accuracy of Spine : 84.00990099009901%
+
+Accuracy of Thorax : 98.14191660570593%
+
+
+
+
+
+epoch: 58
+
+Accuracy of Abdomen : 83.64974815962805%
+
+Accuracy of Background : 91.68234851336094%
+
+Accuracy of Head : 94.21272910953962%
+
+Accuracy of Limbs : 80.33487709298183%
+
+Accuracy of Placenta : 57.3%
+
+Accuracy of Spine : 86.03960396039604%
+
+Accuracy of Thorax : 96.98610095098756%
+
+
+
+
+
+epoch: 59
+
+Accuracy of Abdomen : 73.8860906625339%
+
+Accuracy of Background : 96.1610839292435%
+
+Accuracy of Head : 77.25501515370183%
+
+Accuracy of Limbs : 82.97114356964731%
+
+Accuracy of Placenta : 54.9%
+
+Accuracy of Spine : 83.46534653465346%
+
+Accuracy of Thorax : 96.62033650329188%
+
+
+
+
+
+epoch: 60
+
+Accuracy of Abdomen : 91.12746997287873%
+
+Accuracy of Background : 95.89762890477982%
+
+Accuracy of Head : 87.61726078799249%
+
+Accuracy of Limbs : 78.55361596009975%
+
+Accuracy of Placenta : 52.6%
+
+Accuracy of Spine : 86.53465346534654%
+
+Accuracy of Thorax : 83.51133869787857%
+
+
+
+
+
+epoch: 61
+
+Accuracy of Abdomen : 77.37311119721038%
+
+Accuracy of Background : 95.89762890477982%
+
+Accuracy of Head : 89.58002597777457%
+
+Accuracy of Limbs : 83.75489846811543%
+
+Accuracy of Placenta : 53.0%
+
+Accuracy of Spine : 85.0990099009901%
+
+Accuracy of Thorax : 97.3226042428676%
+
+
+
+
+
+epoch: 62
+
+Accuracy of Abdomen : 88.2603641999225%
+
+Accuracy of Background : 94.24162589386526%
+
+Accuracy of Head : 95.85798816568047%
+
+Accuracy of Limbs : 89.34805842536515%
+
+Accuracy of Placenta : 33.1%
+
+Accuracy of Spine : 81.2871287128713%
+
+Accuracy of Thorax : 97.79078273591807%
+
+
+
+
+
+epoch: 63
+
+Accuracy of Abdomen : 86.16815187911662%
+
+Accuracy of Background : 94.35453519006398%
+
+Accuracy of Head : 94.63125992206668%
+
+Accuracy of Limbs : 86.6405415033844%
+
+Accuracy of Placenta : 38.5%
+
+Accuracy of Spine : 84.45544554455445%
+
+Accuracy of Thorax : 97.93708851499635%
+
+
+
+
+
+epoch: 64
+
+Accuracy of Abdomen : 83.26230143355289%
+
+Accuracy of Background : 95.74708317651486%
+
+Accuracy of Head : 92.1489392408717%
+
+Accuracy of Limbs : 88.59992874955468%
+
+Accuracy of Placenta : 48.6%
+
+Accuracy of Spine : 83.31683168316832%
+
+Accuracy of Thorax : 96.95683979517192%
+
+
+
+
+
+epoch: 65
+
+Accuracy of Abdomen : 89.03525765207284%
+
+Accuracy of Background : 95.85999247271359%
+
+Accuracy of Head : 91.57165536152402%
+
+Accuracy of Limbs : 81.90238688991806%
+
+Accuracy of Placenta : 61.9%
+
+Accuracy of Spine : 86.2871287128713%
+
+Accuracy of Thorax : 94.45501097293344%
+
+
+
+
+
+epoch: 66
+
+Accuracy of Abdomen : 87.91166214645486%
+
+Accuracy of Background : 95.78471960858111%
+
+Accuracy of Head : 88.75739644970415%
+
+Accuracy of Limbs : 87.13929462059137%
+
+Accuracy of Placenta : 62.1%
+
+Accuracy of Spine : 84.75247524752476%
+
+Accuracy of Thorax : 97.24945135332845%
+
+
+
+
+
+epoch: 67
+
+Accuracy of Abdomen : 82.25493994575746%
+
+Accuracy of Background : 97.51599548362815%
+
+Accuracy of Head : 85.43801414345505%
+
+Accuracy of Limbs : 80.72675454221589%
+
+Accuracy of Placenta : 59.7%
+
+Accuracy of Spine : 85.4950495049505%
+
+Accuracy of Thorax : 94.67446964155084%
+
+
+
+
+
+epoch: 68
+
+Accuracy of Abdomen : 59.705540488182876%
+
+Accuracy of Background : 95.55890101618367%
+
+Accuracy of Head : 91.15312454899697%
+
+Accuracy of Limbs : 55.61097256857855%
+
+Accuracy of Placenta : 63.9%
+
+Accuracy of Spine : 86.53465346534654%
+
+Accuracy of Thorax : 92.84564740307242%
+
+
+
+
+
+epoch: 69
+
+Accuracy of Abdomen : 84.88957768306858%
+
+Accuracy of Background : 94.99435453519007%
+
+Accuracy of Head : 92.81281570212151%
+
+Accuracy of Limbs : 89.59743498396865%
+
+Accuracy of Placenta : 41.5%
+
+Accuracy of Spine : 82.92079207920793%
+
+Accuracy of Thorax : 97.67373811265546%
+
+
+
+
+
+epoch: 70
+
+Accuracy of Abdomen : 88.18287485470748%
+
+Accuracy of Background : 99.09672563041023%
+
+Accuracy of Head : 88.20897676432385%
+
+Accuracy of Limbs : 86.88991806198788%
+
+Accuracy of Placenta : 36.8%
+
+Accuracy of Spine : 86.58415841584159%
+
+Accuracy of Thorax : 97.19092904169715%
+
+
+
+
+
+epoch: 71
+
+Accuracy of Abdomen : 94.73072452537777%
+
+Accuracy of Background : 94.80617237485886%
+
+Accuracy of Head : 90.54697647568192%
+
+Accuracy of Limbs : 90.27431421446384%
+
+Accuracy of Placenta : 26.2%
+
+Accuracy of Spine : 84.55445544554455%
+
+Accuracy of Thorax : 98.0248719824433%
+
+
+
+
+
+epoch: 72
+
+Accuracy of Abdomen : 90.08136381247579%
+
+Accuracy of Background : 94.91908167105758%
+
+Accuracy of Head : 89.75321114157887%
+
+Accuracy of Limbs : 83.29177057356608%
+
+Accuracy of Placenta : 36.3%
+
+Accuracy of Spine : 85.84158415841584%
+
+Accuracy of Thorax : 97.82004389173372%
+
+
+
+
+
+epoch: 73
+
+Accuracy of Abdomen : 76.32700503680744%
+
+Accuracy of Background : 94.73089951072639%
+
+Accuracy of Head : 75.68191658247943%
+
+Accuracy of Limbs : 82.36551478446741%
+
+Accuracy of Placenta : 50.8%
+
+Accuracy of Spine : 83.46534653465346%
+
+Accuracy of Thorax : 97.62984637893197%
+
+
+
+
+
+epoch: 74
+
+Accuracy of Abdomen : 79.03913211933359%
+
+Accuracy of Background : 99.92472713586751%
+
+Accuracy of Head : 89.7099148506278%
+
+Accuracy of Limbs : 83.43427146419666%
+
+Accuracy of Placenta : 42.9%
+
+Accuracy of Spine : 86.08910891089108%
+
+Accuracy of Thorax : 97.23482077542063%
+
+
+
+
+
+epoch: 75
+
+Accuracy of Abdomen : 89.422704378148%
+
+Accuracy of Background : 98.53217914941663%
+
+Accuracy of Head : 87.70385336989465%
+
+Accuracy of Limbs : 87.21054506590666%
+
+Accuracy of Placenta : 40.6%
+
+Accuracy of Spine : 88.76237623762377%
+
+Accuracy of Thorax : 96.92757863935626%
+
+
+
+
+
+epoch: 76
+
+Accuracy of Abdomen : 68.34560247965905%
+
+Accuracy of Background : 97.77945050809183%
+
+Accuracy of Head : 92.24996391975755%
+
+Accuracy of Limbs : 81.61738510865693%
+
+Accuracy of Placenta : 59.0%
+
+Accuracy of Spine : 86.33663366336634%
+
+Accuracy of Thorax : 97.3811265544989%
+
+
+
+
+
+epoch: 77
+
+Accuracy of Abdomen : 83.0685780705153%
+
+Accuracy of Background : 99.96236356793376%
+
+Accuracy of Head : 89.98412469331794%
+
+Accuracy of Limbs : 86.71179194869968%
+
+Accuracy of Placenta : 29.0%
+
+Accuracy of Spine : 85.99009900990099%
+
+Accuracy of Thorax : 96.29846378931968%
+
+
+
+
+
+epoch: 78
+
+Accuracy of Abdomen : 84.15342890352576%
+
+Accuracy of Background : 94.76853594279262%
+
+Accuracy of Head : 86.04416221677009%
+
+Accuracy of Limbs : 84.43177769861062%
+
+Accuracy of Placenta : 40.7%
+
+Accuracy of Spine : 85.39603960396039%
+
+Accuracy of Thorax : 97.79078273591807%
+
+
+
+
+
+epoch: 79
+
+Accuracy of Abdomen : 91.82487407981402%
+
+Accuracy of Background : 93.9028980052691%
+
+Accuracy of Head : 92.4953095684803%
+
+Accuracy of Limbs : 81.01175632347702%
+
+Accuracy of Placenta : 47.1%
+
+Accuracy of Spine : 82.42574257425743%
+
+Accuracy of Thorax : 96.12289685442575%
+
+
+
+
+
+epoch: 80
+
+Accuracy of Abdomen : 88.6865555986052%
+
+Accuracy of Background : 92.73616861121566%
+
+Accuracy of Head : 93.05816135084427%
+
+Accuracy of Limbs : 91.44994656216602%
+
+Accuracy of Placenta : 50.3%
+
+Accuracy of Spine : 81.88118811881188%
+
+Accuracy of Thorax : 98.01024140453548%
+
+
+
+
+
+epoch: 81
+
+Accuracy of Abdomen : 90.08136381247579%
+
+Accuracy of Background : 97.59126834776063%
+
+Accuracy of Head : 91.18198874296435%
+
+Accuracy of Limbs : 89.88243676522978%
+
+Accuracy of Placenta : 39.5%
+
+Accuracy of Spine : 82.82178217821782%
+
+Accuracy of Thorax : 96.75201170446233%
+
+
+
+
+
+epoch: 82
+
+Accuracy of Abdomen : 89.73266175900814%
+
+Accuracy of Background : 98.53217914941663%
+
+Accuracy of Head : 93.77976620002886%
+
+Accuracy of Limbs : 81.79551122194513%
+
+Accuracy of Placenta : 43.5%
+
+Accuracy of Spine : 85.29702970297029%
+
+Accuracy of Thorax : 97.57132406730067%
+
+
+
+
+
+epoch: 83
+
+Accuracy of Abdomen : 84.50213095699341%
+
+Accuracy of Background : 99.96236356793376%
+
+Accuracy of Head : 90.07071727522009%
+
+Accuracy of Limbs : 82.72176701104382%
+
+Accuracy of Placenta : 50.2%
+
+Accuracy of Spine : 82.02970297029702%
+
+Accuracy of Thorax : 97.24945135332845%
+
+
+
+
+
+epoch: 84
+
+Accuracy of Abdomen : 90.04261913986826%
+
+Accuracy of Background : 99.96236356793376%
+
+Accuracy of Head : 91.03766777312744%
+
+Accuracy of Limbs : 81.58175988599929%
+
+Accuracy of Placenta : 34.9%
+
+Accuracy of Spine : 85.94059405940594%
+
+Accuracy of Thorax : 97.65910753474762%
+
+
+
+
+
+epoch: 85
+
+Accuracy of Abdomen : 92.63851220457187%
+
+Accuracy of Background : 94.42980805419646%
+
+Accuracy of Head : 92.12007504690432%
+
+Accuracy of Limbs : 86.24866405415034%
+
+Accuracy of Placenta : 33.6%
+
+Accuracy of Spine : 84.9009900990099%
+
+Accuracy of Thorax : 98.22970007315288%
+
+
+
+
+
+epoch: 86
+
+Accuracy of Abdomen : 83.10732274312282%
+
+Accuracy of Background : 96.27399322544223%
+
+Accuracy of Head : 89.76764323856257%
+
+Accuracy of Limbs : 88.99180619878874%
+
+Accuracy of Placenta : 33.5%
+
+Accuracy of Spine : 82.37623762376238%
+
+Accuracy of Thorax : 98.24433065106072%
+
+
+
+
+
+epoch: 87
+
+Accuracy of Abdomen : 85.35451375435878%
+
+Accuracy of Background : 97.70417764395935%
+
+Accuracy of Head : 87.87703853369895%
+
+Accuracy of Limbs : 88.67117919486996%
+
+Accuracy of Placenta : 39.6%
+
+Accuracy of Spine : 83.36633663366337%
+
+Accuracy of Thorax : 91.77761521580102%
+
+
+
+
+
+epoch: 88
+
+Accuracy of Abdomen : 88.4540875629601%
+
+Accuracy of Background : 94.8438088069251%
+
+Accuracy of Head : 91.15312454899697%
+
+Accuracy of Limbs : 92.51870324189527%
+
+Accuracy of Placenta : 36.4%
+
+Accuracy of Spine : 84.35643564356435%
+
+Accuracy of Thorax : 95.93269934162399%
+
+
+
+
+
+epoch: 89
+
+Accuracy of Abdomen : 83.0685780705153%
+
+Accuracy of Background : 95.74708317651486%
+
+Accuracy of Head : 90.50368018473084%
+
+Accuracy of Limbs : 86.74741717135733%
+
+Accuracy of Placenta : 48.3%
+
+Accuracy of Spine : 83.81188118811882%
+
+Accuracy of Thorax : 94.93782004389173%
+
+
+
+
+
+epoch: 90
+
+Accuracy of Abdomen : 72.64626113909337%
+
+Accuracy of Background : 95.5965374482499%
+
+Accuracy of Head : 93.05816135084427%
+
+Accuracy of Limbs : 77.34235838973994%
+
+Accuracy of Placenta : 60.9%
+
+Accuracy of Spine : 84.8019801980198%
+
+Accuracy of Thorax : 95.47915142648135%
+
+
+

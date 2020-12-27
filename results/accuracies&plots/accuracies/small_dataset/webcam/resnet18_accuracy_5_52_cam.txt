@@ -1,0 +1,962 @@
+accuracies of model resnet18 (NOT augmented trained) throughout all its traing epochs ON WEBCAM IMAGES
+
+
+
+epoch: 5
+
+Accuracy of Abdomen : 70.0%
+
+Accuracy of Background : 84.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 71.0%
+
+Accuracy of Placenta : 34.0%
+
+Accuracy of Spine : 84.0%
+
+Accuracy of Thorax : 100.0%
+
+
+
+
+
+epoch: 6
+
+Accuracy of Abdomen : 76.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 76.0%
+
+Accuracy of Placenta : 29.0%
+
+Accuracy of Spine : 78.0%
+
+Accuracy of Thorax : 77.0%
+
+
+
+
+
+epoch: 7
+
+Accuracy of Abdomen : 77.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 83.0%
+
+Accuracy of Placenta : 32.0%
+
+Accuracy of Spine : 77.0%
+
+Accuracy of Thorax : 72.0%
+
+
+
+
+
+epoch: 8
+
+Accuracy of Abdomen : 76.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 84.0%
+
+Accuracy of Placenta : 28.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 75.0%
+
+
+
+
+
+epoch: 9
+
+Accuracy of Abdomen : 78.0%
+
+Accuracy of Background : 100.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 74.0%
+
+Accuracy of Placenta : 33.0%
+
+Accuracy of Spine : 77.0%
+
+Accuracy of Thorax : 72.0%
+
+
+
+
+
+epoch: 10
+
+Accuracy of Abdomen : 75.0%
+
+Accuracy of Background : 100.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 75.0%
+
+Accuracy of Placenta : 26.0%
+
+Accuracy of Spine : 84.0%
+
+Accuracy of Thorax : 43.0%
+
+
+
+
+
+epoch: 11
+
+Accuracy of Abdomen : 80.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 74.0%
+
+Accuracy of Placenta : 31.0%
+
+Accuracy of Spine : 76.0%
+
+Accuracy of Thorax : 85.0%
+
+
+
+
+
+epoch: 12
+
+Accuracy of Abdomen : 68.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 63.0%
+
+Accuracy of Placenta : 25.0%
+
+Accuracy of Spine : 87.0%
+
+Accuracy of Thorax : 58.0%
+
+
+
+
+
+epoch: 13
+
+Accuracy of Abdomen : 71.0%
+
+Accuracy of Background : 100.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 83.0%
+
+Accuracy of Placenta : 38.0%
+
+Accuracy of Spine : 78.0%
+
+Accuracy of Thorax : 77.0%
+
+
+
+
+
+epoch: 14
+
+Accuracy of Abdomen : 75.0%
+
+Accuracy of Background : 93.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 80.0%
+
+Accuracy of Placenta : 42.0%
+
+Accuracy of Spine : 80.0%
+
+Accuracy of Thorax : 88.0%
+
+
+
+
+
+epoch: 15
+
+Accuracy of Abdomen : 79.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 93.0%
+
+Accuracy of Limbs : 73.0%
+
+Accuracy of Placenta : 36.0%
+
+Accuracy of Spine : 78.0%
+
+Accuracy of Thorax : 78.0%
+
+
+
+
+
+epoch: 16
+
+Accuracy of Abdomen : 73.0%
+
+Accuracy of Background : 100.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 82.0%
+
+Accuracy of Placenta : 35.0%
+
+Accuracy of Spine : 89.0%
+
+Accuracy of Thorax : 37.0%
+
+
+
+
+
+epoch: 17
+
+Accuracy of Abdomen : 75.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 83.0%
+
+Accuracy of Placenta : 39.0%
+
+Accuracy of Spine : 63.0%
+
+Accuracy of Thorax : 66.0%
+
+
+
+
+
+epoch: 18
+
+Accuracy of Abdomen : 76.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 93.0%
+
+Accuracy of Limbs : 83.0%
+
+Accuracy of Placenta : 37.0%
+
+Accuracy of Spine : 79.0%
+
+Accuracy of Thorax : 95.0%
+
+
+
+
+
+epoch: 19
+
+Accuracy of Abdomen : 73.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 97.0%
+
+Accuracy of Limbs : 77.0%
+
+Accuracy of Placenta : 32.0%
+
+Accuracy of Spine : 75.0%
+
+Accuracy of Thorax : 96.0%
+
+
+
+
+
+epoch: 20
+
+Accuracy of Abdomen : 78.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 69.0%
+
+Accuracy of Placenta : 38.0%
+
+Accuracy of Spine : 83.0%
+
+Accuracy of Thorax : 76.0%
+
+
+
+
+
+epoch: 21
+
+Accuracy of Abdomen : 73.0%
+
+Accuracy of Background : 100.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 72.0%
+
+Accuracy of Placenta : 27.0%
+
+Accuracy of Spine : 81.0%
+
+Accuracy of Thorax : 41.0%
+
+
+
+
+
+epoch: 22
+
+Accuracy of Abdomen : 65.0%
+
+Accuracy of Background : 98.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 78.0%
+
+Accuracy of Placenta : 33.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 82.0%
+
+
+
+
+
+epoch: 23
+
+Accuracy of Abdomen : 80.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 80.0%
+
+Accuracy of Placenta : 17.0%
+
+Accuracy of Spine : 75.0%
+
+Accuracy of Thorax : 99.0%
+
+
+
+
+
+epoch: 24
+
+Accuracy of Abdomen : 79.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 67.0%
+
+Accuracy of Placenta : 35.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 85.0%
+
+
+
+
+
+epoch: 25
+
+Accuracy of Abdomen : 77.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 77.0%
+
+Accuracy of Placenta : 34.0%
+
+Accuracy of Spine : 79.0%
+
+Accuracy of Thorax : 97.0%
+
+
+
+
+
+epoch: 26
+
+Accuracy of Abdomen : 70.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 74.0%
+
+Accuracy of Placenta : 40.0%
+
+Accuracy of Spine : 83.0%
+
+Accuracy of Thorax : 89.0%
+
+
+
+
+
+epoch: 27
+
+Accuracy of Abdomen : 84.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 97.0%
+
+Accuracy of Limbs : 73.0%
+
+Accuracy of Placenta : 19.0%
+
+Accuracy of Spine : 85.0%
+
+Accuracy of Thorax : 99.0%
+
+
+
+
+
+epoch: 28
+
+Accuracy of Abdomen : 77.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 71.0%
+
+Accuracy of Placenta : 36.0%
+
+Accuracy of Spine : 80.0%
+
+Accuracy of Thorax : 92.0%
+
+
+
+
+
+epoch: 29
+
+Accuracy of Abdomen : 65.0%
+
+Accuracy of Background : 84.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 75.0%
+
+Accuracy of Placenta : 37.0%
+
+Accuracy of Spine : 84.0%
+
+Accuracy of Thorax : 91.0%
+
+
+
+
+
+epoch: 30
+
+Accuracy of Abdomen : 63.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 74.0%
+
+Accuracy of Placenta : 38.0%
+
+Accuracy of Spine : 77.0%
+
+Accuracy of Thorax : 84.0%
+
+
+
+
+
+epoch: 31
+
+Accuracy of Abdomen : 63.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 75.0%
+
+Accuracy of Placenta : 30.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 90.0%
+
+
+
+
+
+epoch: 32
+
+Accuracy of Abdomen : 70.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 78.0%
+
+Accuracy of Placenta : 35.0%
+
+Accuracy of Spine : 76.0%
+
+Accuracy of Thorax : 88.0%
+
+
+
+
+
+epoch: 33
+
+Accuracy of Abdomen : 82.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 74.0%
+
+Accuracy of Placenta : 33.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 91.0%
+
+
+
+
+
+epoch: 34
+
+Accuracy of Abdomen : 75.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 74.0%
+
+Accuracy of Placenta : 32.0%
+
+Accuracy of Spine : 83.0%
+
+Accuracy of Thorax : 88.0%
+
+
+
+
+
+epoch: 35
+
+Accuracy of Abdomen : 80.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 67.0%
+
+Accuracy of Placenta : 34.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 68.0%
+
+
+
+
+
+epoch: 36
+
+Accuracy of Abdomen : 76.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 79.0%
+
+Accuracy of Placenta : 35.0%
+
+Accuracy of Spine : 80.0%
+
+Accuracy of Thorax : 89.0%
+
+
+
+
+
+epoch: 37
+
+Accuracy of Abdomen : 84.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 72.0%
+
+Accuracy of Placenta : 35.0%
+
+Accuracy of Spine : 77.0%
+
+Accuracy of Thorax : 90.0%
+
+
+
+
+
+epoch: 38
+
+Accuracy of Abdomen : 77.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 96.0%
+
+Accuracy of Limbs : 81.0%
+
+Accuracy of Placenta : 31.0%
+
+Accuracy of Spine : 79.0%
+
+Accuracy of Thorax : 96.0%
+
+
+
+
+
+epoch: 39
+
+Accuracy of Abdomen : 73.0%
+
+Accuracy of Background : 86.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 26.0%
+
+Accuracy of Placenta : 42.0%
+
+Accuracy of Spine : 86.0%
+
+Accuracy of Thorax : 94.0%
+
+
+
+
+
+epoch: 40
+
+Accuracy of Abdomen : 85.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 76.0%
+
+Accuracy of Placenta : 38.0%
+
+Accuracy of Spine : 79.0%
+
+Accuracy of Thorax : 89.0%
+
+
+
+
+
+epoch: 41
+
+Accuracy of Abdomen : 75.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 97.0%
+
+Accuracy of Limbs : 75.0%
+
+Accuracy of Placenta : 40.0%
+
+Accuracy of Spine : 81.0%
+
+Accuracy of Thorax : 97.0%
+
+
+
+
+
+epoch: 42
+
+Accuracy of Abdomen : 68.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 79.0%
+
+Accuracy of Placenta : 33.0%
+
+Accuracy of Spine : 81.0%
+
+Accuracy of Thorax : 97.0%
+
+
+
+
+
+epoch: 43
+
+Accuracy of Abdomen : 81.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 81.0%
+
+Accuracy of Placenta : 38.0%
+
+Accuracy of Spine : 77.0%
+
+Accuracy of Thorax : 91.0%
+
+
+
+
+
+epoch: 44
+
+Accuracy of Abdomen : 74.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 86.0%
+
+Accuracy of Placenta : 39.0%
+
+Accuracy of Spine : 85.0%
+
+Accuracy of Thorax : 83.0%
+
+
+
+
+
+epoch: 45
+
+Accuracy of Abdomen : 75.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 91.0%
+
+Accuracy of Placenta : 37.0%
+
+Accuracy of Spine : 80.0%
+
+Accuracy of Thorax : 90.0%
+
+
+
+
+
+epoch: 46
+
+Accuracy of Abdomen : 78.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 84.0%
+
+Accuracy of Placenta : 32.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 82.0%
+
+
+
+
+
+epoch: 47
+
+Accuracy of Abdomen : 83.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 89.0%
+
+Accuracy of Limbs : 86.0%
+
+Accuracy of Placenta : 37.0%
+
+Accuracy of Spine : 76.0%
+
+Accuracy of Thorax : 92.0%
+
+
+
+
+
+epoch: 48
+
+Accuracy of Abdomen : 61.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 97.0%
+
+Accuracy of Limbs : 77.0%
+
+Accuracy of Placenta : 33.0%
+
+Accuracy of Spine : 82.0%
+
+Accuracy of Thorax : 50.0%
+
+
+
+
+
+epoch: 49
+
+Accuracy of Abdomen : 64.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 97.0%
+
+Accuracy of Limbs : 86.0%
+
+Accuracy of Placenta : 38.0%
+
+Accuracy of Spine : 84.0%
+
+Accuracy of Thorax : 78.0%
+
+
+
+
+
+epoch: 50
+
+Accuracy of Abdomen : 72.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 98.0%
+
+Accuracy of Limbs : 81.0%
+
+Accuracy of Placenta : 31.0%
+
+Accuracy of Spine : 84.0%
+
+Accuracy of Thorax : 77.0%
+
+
+
+
+
+epoch: 51
+
+Accuracy of Abdomen : 78.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 100.0%
+
+Accuracy of Limbs : 84.0%
+
+Accuracy of Placenta : 33.0%
+
+Accuracy of Spine : 85.0%
+
+Accuracy of Thorax : 79.0%
+
+
+
+
+
+epoch: 52
+
+Accuracy of Abdomen : 83.0%
+
+Accuracy of Background : 87.0%
+
+Accuracy of Head : 99.0%
+
+Accuracy of Limbs : 90.0%
+
+Accuracy of Placenta : 56.0%
+
+Accuracy of Spine : 79.0%
+
+Accuracy of Thorax : 72.0%
+
+
+
